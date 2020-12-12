@@ -102,3 +102,12 @@ python3 bot.py
   - Google Drive Direct Link Generator
 ### Licence
   - GPLv3
+
+
+
+##Deploy
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dare-Devill/Google-Drive-Uploader/tree/master)
+
