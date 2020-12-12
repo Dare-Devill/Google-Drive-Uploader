@@ -9,7 +9,7 @@ MEGA_EMAIL = "rizlagogo@gmail.com"
 MEGA_PASSWORD = "bhaibhai12"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @Pratham_vai"
+START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/TheSecretHackers'>Join Channel</a>\nPlease Report Bugs  @Pratham_vai"
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
